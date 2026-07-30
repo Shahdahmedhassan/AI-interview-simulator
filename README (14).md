@@ -6,9 +6,9 @@
 
 | Field            | Value                                |
 | ---------------- | ------------------------------------ |
-| Full Name        | *(add your name)*                    |
+| Full Name        | *(Shahd Ahmed Hassan)*                    |
 | Project Name     | AI Career & Interview Coach          |
-| GitHub Username  | *(add your GitHub username)*         |
+| GitHub Username  | *(Shahdahmedhassan)*         |
 | Challenge Batch  | June–July 2026                       |
 | Training Program | Large Language Models (LLMs) Program |
 | Organization     | [**Edrak for Ai**](https://edrak4ai.com/en) |
