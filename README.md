@@ -1,4 +1,6 @@
 # 🚀 [Tips Hindawi](https://www.tipshindawi.com/) Challenge (June–July) 2026
+Here is the link of the Application:
+https://ai-interview-simulator-fau7zk7ekohyehsuesgukv.streamlit.app/
 
 > 🏆 This repository is my official submission for the [ **Tips Hindawi** ](https://www.tipshindawi.com/) **Challenge (June–July) 2026**.
 
